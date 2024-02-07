@@ -3,5 +3,11 @@ class Product {
   double price;
   String image;
   String brand;
-  Product(this.brand, this.price, this.image, this.name);
+  String description;
+  Product(
+      {required this.brand,
+      required this.price,
+      required this.image,
+      required this.name,
+      required this.description});
 }
