@@ -1,20 +1,21 @@
 # HW-4
 
 ## Description:
-Your task is to create a small shopping app, as showing in picture   
+shopping app,
 
 
-<img src="https://github.com/FlutterBootCamps/HW-4/assets/94991478/656d742f-8870-487c-a805-f9cd8dec7b88" width=800/>
+home screen,
 
-## Extra credit:
--	Add quantity button, and total amount will change depends quantity of each product
-
-## Delivery Requirements:
-1.	Project Structure: Create a new Flutter project and organize its structure appropriately. Set up the necessary folders and files, and ensure a clean and organized project layout. 
-2.	Clean Code: Write clear and well-organized code. Use meaningful variable and function names, Well-structured and easily maintainable code.
-3.	Screenshots of your app.
+<img width="402" alt="Screenshot 2024-02-08 at 2 15 34 AM" src="https://github.com/shaimaathu/HW-4/assets/155615972/ceba12d2-c2b8-4ba5-9207-9a8d82e51852">
 
 
+product screen,
 
-## Deadline: 
-8/2/2024  9:59 AM
+<img width="379" alt="Screenshot 2024-02-08 at 2 15 50 AM" src="https://github.com/shaimaathu/HW-4/assets/155615972/a637047e-4584-41d7-bed6-c30946ccbce0">
+
+cart screen,
+
+<img width="418" alt="Screenshot 2024-02-08 at 2 16 00 AM" src="https://github.com/shaimaathu/HW-4/assets/155615972/1e1fb8e0-4416-4043-aa69-e8a290544462">
+
+
+
