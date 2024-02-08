@@ -1,8 +1,12 @@
 import 'package:hw4/models/product.dart';
 
-List<Product> productList = [
-  Product("Apple", 3800, " ", "iphone 14"),
+final List<Product> productList = [
+  Product("HUAWEI", 1200, "https://m.media-amazon.com/images/I/71RgR-SxrqL._AC_SX679_.jpg", "GT 3 46Mm", "smartwatch automatically provides 24-hour SpO2 level detection no matter when you are working, exercising or sleeping, which carefully protecting your health around the clock.Supporting more than 100 sports modes like running, cycling, hiking, swimming, jumping rope and skiing. "),
+  Product("Apple", 4700, "https://m.media-amazon.com/images/I/71+c7TTkcCL._AC_SX679_.jpg", "iphone 15 pro", "iPhone 15 Pro Max has a strong and light aerospace-grade titanium design with a textured matt-glass back. It also features a super-tough Ceramic Shield front. And it’s splash, water and dust resistant"),
+  Product("HUAWEI", 6700.5, "https://m.media-amazon.com/images/I/71TrxGfNn-L._AC_SX679_.jpg", "HUAWEI P60 Pro", "88 W HUAWEI SuperCharge, Top Apps You Need: AppGallery arms consumers with the power of choice, offering access to an extensive range of global and local top apps.The 6.67-inch Quad-Curve LTPO screen gives you a smooth grip and immersive view with its 1-120 Hz adaptive refresh rate. The HUAWEI X-TrueTM Display provides accurate colours and true-to-life details in bright and dark areas. The 48MP Ultra Lighting Telephoto Camera loaded with Multiple Lens Groups and an F2.1 large aperture that takes in 178% more light to bring out rich details."),
+  Product("Tensky", 540, "https://m.media-amazon.com/images/I/71qj1EgsEzL._AC_SX679_.jpg", "Smart Watch", "Enable you to answer, reject or make calls on the smartwatch to stay in touch with family and friends anytime, anywhere."),
+  Product("Soundcore", 2200, "asset/h30i.png ", "H30i", " wireless on-ear headphones feature 40mm oversized drivers to consistently deliver powerful audio, alongside enhanced pure bass, to bring your music to life. "), // https://m.media-amazon.com/images/I/61G17YUT0WL._AC_SX679_.jpg
   product1,
 ];
 
-Product product1 = Product("Apple", 3800, " ", "iphone 14");
+Product product1 = Product("Apple", 3800, "https://www.jarir.com/cdn-cgi/image/fit=contain,width=auto,height=auto,quality=85,metadata=none/https://ak-asset.jarir.com/akeneo-prod/asset/6/2/2/0/62202b8a5a579d4f2a5e5f3a7db851b953065d6a_595133.jpg", "iphone 14", "6.1-inch Super Retina XDR display, Advanced camera system for better photos in any light, Cinematic mode now in 4K Dolby Vision up to 30 fps, Action mode for smooth, steady handheld videos");
