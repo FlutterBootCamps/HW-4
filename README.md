@@ -5,6 +5,7 @@ shopping app,
 
 
 home screen,
+
 <img width="402" alt="Screenshot 2024-02-08 at 2 15 34 AM" src="https://github.com/shaimaathu/HW-4/assets/155615972/ceba12d2-c2b8-4ba5-9207-9a8d82e51852">
 
 
